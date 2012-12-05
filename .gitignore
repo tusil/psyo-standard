@@ -1,0 +1,5 @@
+app/bootstrap*
+vendor/*
+web/bundles/*
+app/cache/*
+app/logs/*
